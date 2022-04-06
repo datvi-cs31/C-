@@ -8,3 +8,6 @@ Stupid projects made with C++
 ### Tic Tac Toe Game with OOP Concepts.
    Programmed in such a way that it game is played in linux and windows OS.
    Command line game for two players. The code also instructs about the rule of game throught the runtime.
+
+### Password accepting system.
+   Deriving inspiration from many websites, made a password accepting system (when all constraints are fulfilled).
